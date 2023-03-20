@@ -1,0 +1,23 @@
+**/node_modules
+chrome-react-seo-extension/build
+# dependencies
+chrome-react-seo-extension/node_modules
+chrome-react-seo-extension/.pnp
+chrome-react-seo-extension/.pnp.js
+
+# testing
+chrome-react-seo-extension/coverage
+
+# production
+chrome-react-seo-extension/build
+
+# misc
+chrome-react-seo-extension/.DS_Store
+chrome-react-seo-extension/.env.local
+chrome-react-seo-extension/.env.development.local
+chrome-react-seo-extension/.env.test.local
+chrome-react-seo-extension/.env.production.local
+
+chrome-react-seo-extension/npm-debug.log*
+chrome-react-seo-extension/yarn-debug.log*
+chrome-react-seo-extension/yarn-error.log*
